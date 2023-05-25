@@ -17,25 +17,11 @@ io.on('connection', (socket) => {
   });
 
 const imagenesRandom = [
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
-    "https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png"
+    "https://i.postimg.cc/Y9vcmh5c/rous.jpg",
+        ,
+    "ttps://i.postimg.cc/cH2p7dWv/igor.jpg",
+    "https://i.postimg.cc/V6GQHjcH/dana.jpg",
+    "https://i.postimg.cc/q7bVR8ZX/Trejo.jpg"
 ]
 
 require("dotenv").config();
