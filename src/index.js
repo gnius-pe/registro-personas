@@ -21,6 +21,12 @@ const imagenesRandom = [
   "https://i.postimg.cc/cH2p7dWv/igor.jpg",
   "https://i.postimg.cc/V6GQHjcH/dana.jpg",
   "https://i.postimg.cc/q7bVR8ZX/Trejo.jpg",
+  "https://i.postimg.cc/ZRb157FR/Benja.jpg",
+  "https://i.postimg.cc/2SvpcBSz/igor2.jpg",
+  "https://i.postimg.cc/m2KfySRX/igor3.jpg",
+  "https://i.postimg.cc/PrCnD7Gv/persona1.jpg",
+  "https://i.postimg.cc/LsMcr6Jj/persona2.jpg"
+
 ];
 
 require("dotenv").config();
