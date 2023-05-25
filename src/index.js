@@ -18,7 +18,7 @@ io.on("connection", (socket) => {
 
 const imagenesRandom = [
   "https://i.postimg.cc/Y9vcmh5c/rous.jpg",
-  "ttps://i.postimg.cc/cH2p7dWv/igor.jpg",
+  "https://i.postimg.cc/cH2p7dWv/igor.jpg",
   "https://i.postimg.cc/V6GQHjcH/dana.jpg",
   "https://i.postimg.cc/q7bVR8ZX/Trejo.jpg",
 ];
